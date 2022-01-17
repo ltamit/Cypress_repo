@@ -1,0 +1,7 @@
+{
+  "author": "Mayank Maurya",
+  "devDependencies": {
+    "cypress": "^9.2.1",
+    "lambdatest-cypress-cli": "^2.1.2"
+  }
+}
